@@ -1,0 +1,75 @@
+img {
+  max-width: 100%;
+}
+.container {
+  display:flex;  
+  color: #222;
+  font-family: 'Abril Fatface', cursive;
+
+  
+}
+.cím {
+  position:absolute;
+  font-family: 'Abril Fatface';
+  color: #222 grey;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: flex-start;
+  margin-left:180px;
+  margin-top:110px;
+  
+  
+  
+}
+blockquote {
+  font-family: 'Abril Fatface';
+  color: white;
+  background-color: #222;
+  padding: 20px;
+  margin-right:-20px;
+  margin-left:-20px;
+}
+p {
+  font-family: 'Josefin Sans';
+  color: #222;
+}
+
+.kicsi {
+  font-size: 30px;
+  font-family: 'Abril Fatface', cursive;
+  margin-bottom: 0px;
+ 
+    
+}
+.nagy {
+  font-size: 50px;
+  font-family: 'Abril Fatface', cursive;
+   margin-top: 0px;
+  
+  
+}
+h1 {
+  font-family: 'Josefin Sans';
+  font-size:20px;
+  margin-bottom:30px;
+}
+h3 {
+  font-family: ' Abril Fatface';
+  font-style: italic;
+  font-size: 15px;
+  margin-top:0px;
+}
+ul {
+  color: grey;
+}
+h2 {
+  font-family: 'Josefin Sans';
+  font-size:20px;
+  margin-bottom:0px;
+}
+.szöveg {
+  margin-left: 150px;
+  margin-right:150px;
+  margin-top:50px;
+}
